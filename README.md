@@ -1,17 +1,17 @@
 ## About LaraTodo
 
-LaraTodo is a Todo  Web Wpplication 
+LaraTodo is a Todo web application. 
 
-Features and Conncept Implemented:
--  Build With laravel,Tailwind Css and Splade(A laravel tool for single page application)
--  User can  Login and Register too.
--  User can Create,Read ,Update ,Delete their Todo.
+Features and Concept Implemented:
+-  Build With laravel,Tailwind Css and <a href="https://splade.dev/">Splade</a>(A laravel tool for single page application)
+-  Users can  Login and Register too.
+-  Users can Create,Read,Update ,Delete their Todo.
 -  Admin can Create and Delete accounts on behalf of users.
 -  Admin account is created via the console command(check instruction section).
 -  A Policy was used to Authorise users on the Todo Model.
 -  Gates were Used to Authorise Admins only on  User action(CRUD Functionalty).
--  Emails are send to user whose accounts are Created by Admins with their login creadentials(tested    with gmail and mailtrap).
--  Emails are Send daily using schedule task to Users with their total todo list and the todo list.
+-  Emails are sent to users whose accounts are Created by Admins with their login credentials (tested    with Gmail and mailtrap).
+-  Emails are sent daily using schedule task to Users with their total todo list and the todo list.
 -  screenshots are in screenshots folder.
 
 
